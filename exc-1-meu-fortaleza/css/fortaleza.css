@@ -1,0 +1,96 @@
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    line-height: 1.6;
+    background:#FFF1D6 url(../../exc-1-saopaulo/images/noise.png);
+}
+
+.container {
+    margin: 0 auto;
+    width: 1090px;
+}
+
+h1 a{
+    color: #7E9F19;
+    text-decoration: none;
+}
+
+h1 a:hover{
+    color: #D22626;
+    background-color: #E2DADA;
+}
+
+p{
+    text-align: justify;
+}
+
+.place a{
+    color: #F00;
+    font-weight: bold;
+}
+
+.place a:visited{
+    color: #2C88A7;
+}
+
+.place {
+    background: #FFF;
+    border: 1px solid #000;
+    border-color: #CCC #999 #999 #CCC;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    border-bottom: 1px dashed #C95D20;
+    margin: 0;
+}
+
+figure img {
+    width: 330px;
+    border: 1px solid #C95D20;
+    padding: 3px;
+    margin: 10px 10px 0 0;
+}
+
+figure{
+    float: left;
+}
+figcaption{
+    text-align: center;
+}
+
+.sidenote{
+    background: #FFFBE4;
+    border: 1px solid #000;
+    padding: 10px;
+    float: right;
+    width: 270px;
+}
+
+h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sidenote ol{
+    font-size: 12px;
+}
+
+
+.places{
+    float: left;
+    width: 790px;
+}
+
+footer {
+    clear: both;
+}
+
+footer p{
+    font-size: 12px;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
